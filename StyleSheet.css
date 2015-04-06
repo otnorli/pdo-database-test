@@ -1,0 +1,29 @@
+
+body {
+    /* background-color:lightgrey */
+    
+}
+
+h1 {
+    color: Red
+    
+}
+
+p {
+    font-family: 'Courier New'
+    
+}
+
+p.ClassTest {
+    color: Blue
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
